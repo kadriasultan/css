@@ -1,0 +1,46 @@
+
+.contactformulier{
+width: 600px;
+height: 800px;
+line-height: 3px;
+margin-left: 600px;
+float: center;
+}.contactformulier .titel{
+border-bottom: 2px solid rgb(145, 90, 8);
+padding: 3px;
+}
+.contactformulier .inhoud{
+margin-top: 15px;
+line-height: 25px;
+padding: 4px;
+display: inline-block;
+}
+.contactformulier .item{
+width: 80px;
+border: 1px solid #e4e6e5;
+box-sizing: border-box;
+height: 35px;
+border-radius: 4px;
+position: relative;
+left: -200px;
+float: right;
+line-height: 45px;
+margin-top: 30px;
+}
+.contactformulier .inhoud2{
+line-height: 20px;
+margin-top: 18px;
+width: 125px;
+}.contactformulier .inhoud3{
+font-size:40px;
+width: 100px;
+height: 10px;
+float: left;
+position: relative;
+left: -320px;
+padding: 5px;
+}
+.contactformulier .geslacht_kiezer{
+width: 177px;
+}
+

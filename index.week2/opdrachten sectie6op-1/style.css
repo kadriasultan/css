@@ -1,0 +1,22 @@
+img{
+  float:center;
+    width: 100em;
+  height: 300px;}
+  h1{
+    text-align: center;
+color:chocolate  }
+*{
+  text-align: center;
+}
+#select[value="volvo"]{
+  color: aquamarine;
+
+}
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}

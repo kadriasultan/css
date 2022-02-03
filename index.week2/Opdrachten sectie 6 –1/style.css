@@ -1,0 +1,26 @@
+img{
+float:center;
+  width: 100em;
+height: 300px;}
+h1{
+  
+  text-align: center;
+  text-decoration: 1px solid coral;
+}
+*{
+  margin: right 25%;
+  text-align: center;
+  color: coral;
+  @media(min-width: 600px;)and(max-width: 900px;)
+}
+input[type="text"]{
+
+width: 20%;
+}
+input[type="email"]{
+  background-color: aqua;
+}
+
+ul{
+  list-style-type: disc;
+}
