@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+.header{
+  height:100vh;
+  background-image: url(bopf4Z.jpg);
+  background-size:cover;
+font-size: 20px;
+}
+.logo-box{
+
+  position: absolute;
+  
+  right: 15%;
+  bottom: 48%;
+  left: 40%;
+  
+}
+.logo{
+  width: 60%;
+height: 70px;
+  
+}
