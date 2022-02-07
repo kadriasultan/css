@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: rgb(201, 27, 27);
+  padding: 30px;
+}
+.header{
+height: 95vh;
+background-image: url(r.png);
+background-size:cover;
+background-position: top;
+clip-path: polygon(0 0,100% 10%,100% 100%,0 100%)
+
+
+
+}
