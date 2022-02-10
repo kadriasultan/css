@@ -1,0 +1,21 @@
+.inhoud1{
+  display: flex;
+  border:2px solid rgb(202, 115, 115);
+  flex-wrap:wrap;
+  background-color: darkgrey;
+  align-content:flex-start;
+
+}
+.a1,.a2,.a3,.a4{
+  color: green;
+  background-color: rgb(29, 206, 182);
+padding: 15px;
+text-align: center;
+margin: 5px;
+width: 300px;
+height: 3px;
+border: 1px solid black;
+}
+.a1{
+  flex-grow: 1;
+}
