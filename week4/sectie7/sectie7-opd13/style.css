@@ -1,0 +1,87 @@
+.flex-container{
+  border: 3px solid black;
+  height: 515px;
+  width: 761px;
+  display:inline-flex;
+  flex-wrap:wrap;
+  text-align: center;
+  flex-direction: row ;
+  }
+  
+  
+  .child1{
+    background-color: yellow;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+ }
+  .child2{
+    background-color: red;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }
+  .child3{
+    background-color: rgb(104, 20, 240);
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child4{
+    background-color: rgb(231, 29, 181);
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child5{
+    background-color: yellow;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child6{
+  
+    background-color:red;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child7{
+    background-color:blue;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child8{
+    background-color: rgb(238, 22, 173);
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child9{
+    
+    background-color:yellow;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }.child10{
+  
+    background-color:red;
+    width: 130px;
+    height: 255px;
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px; 
+
+  }

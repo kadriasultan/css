@@ -1,0 +1,70 @@
+.flex-container{
+  border: 3px solid black;
+  height: 400px;
+  width: 710px;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  margin: 30px;
+  }
+  
+  .child{
+  width: 117px;
+  height: 199px;
+  border: 1px solid green;
+  }
+  .child1{
+    background-color: yellow;
+    width: 130px;
+    height: 199px;
+  }
+  .child2{
+    background-color: red;
+    width: 117px;
+    height: 199px;
+    
+  }
+  .child3{
+    background-color: rgb(104, 20, 240);
+    width: 117px;
+    height: 199px;
+    
+  }.child4{
+    background-color: rgb(121, 23, 96);
+    width: 117px;
+    height: 199px;
+    
+  }.child5{
+    background-color: yellow;
+    width: 117px;
+    height: 199px;
+    
+  }.child6{
+  
+    background-color:red;
+    width: 130px;
+    height: 199px;
+    
+  }.child7{
+    background-color:blue;
+    width: 117px;
+    height: 199px;
+    
+  }.child8{
+    background-color: rgb(121, 11, 88);
+    width: 117px;
+    height: 199px;
+    
+  }.child9{
+    
+    background-color:yellow;
+    width: 117px;
+    height: 199px;
+    
+  }.child10{
+  
+    background-color:red;
+    width: 118px;
+    height: 199px;
+    
+  }

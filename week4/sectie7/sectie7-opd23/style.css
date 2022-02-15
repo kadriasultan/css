@@ -1,0 +1,36 @@
+.container{
+  border: 3px solid black;
+  height: 110px;
+  width: 30rem;
+  display:inline-flex;
+  flex-wrap:wrap;
+  text-align: center;
+  }
+  
+  
+  .child1{
+    background-color: yellow;
+    width: 50px;
+    height: 100px;
+    border: 5px solid rgb(17, 158, 60);
+
+ }
+  .child2{
+    background-color: red;
+    width: 50px;
+    height: 100px;
+    border: 5px solid rgb(8, 150, 27);
+flex-grow: 1;
+  }
+  .child3{
+    background-color: rgb(104, 20, 240);
+    width: 50px;
+    height: 100px;
+    border: 5px solid rgb(30, 143, 8);
+    flex-grow: 1;
+
+  }.child4{
+    background-color: rgb(231, 29, 181);
+    width: 50px;
+    height: 100px;
+    border: 5px solid rgb(12, 165, 19);}

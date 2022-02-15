@@ -1,0 +1,36 @@
+.container{
+  border: 3px solid black;
+  height: 250px;
+  width: 30rem;
+  display:inline-flex;
+  flex-wrap:wrap;
+  text-align: center;
+  }
+  
+  
+  .child1{
+    background-color: yellow;
+    width: 50px;
+    height: 245px;
+    border: 1px solid black;
+
+ }
+  .child2{
+    background-color: red;
+    width: 50px;
+    height: 245px;
+    border: 1px solid black;
+
+  }
+  .child3{
+    background-color: rgb(104, 20, 240);
+    width: 50px;
+    height: 245px;
+    border: 1px solid black;
+    flex-grow: 1;
+
+  }.child4{
+    background-color: rgb(231, 29, 181);
+    width: 50px;
+    height: 245px;
+    border: 1px solid black;}
