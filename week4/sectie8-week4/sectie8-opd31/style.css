@@ -1,0 +1,19 @@
+*{
+  background-color: rgb(235, 95, 172);
+}
+.container{
+  display: grid;
+  grid-template-areas:  "myheadr myheadr "
+  "mymain . . mymain"
+  "mynaam . . mynaam"
+  "leter . . . leter"
+  "mycolor . . . . mycolor"
+  ;
+  
+}
+.child1{grid-area:mymain} 
+.child2{grid-area:myheadr ;}
+.child3{grid-area: mycolor;}
+.child4{grid-area:leter ;}
+.child5{grid-area: mynaam;}
+
